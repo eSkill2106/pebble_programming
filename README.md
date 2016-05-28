@@ -1,2 +1,2 @@
 # pebble_programming
-pebble time coding
+I have no Idea how to write in C, but i sure will try!
